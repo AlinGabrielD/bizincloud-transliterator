@@ -1,6 +1,6 @@
 {
     "name": "bizincloud/magento2-transliterator",
-    "description": "Fix Romanian diacritics in Magento 2 / Includes a Helper to easy acces translit function.",
+    "description": "Fix Romanian diacritics in Magento 2 / Includes a Helper to easy access translit function.",
     "type": "magento2-module",
     "version": "1.0.0",
     "license": "proprietary",
