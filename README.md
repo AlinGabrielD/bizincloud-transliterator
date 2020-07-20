@@ -1,1 +1,1 @@
-# bizincloud-transliterator
+# magento2-transliterator
