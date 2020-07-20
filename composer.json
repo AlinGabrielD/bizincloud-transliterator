@@ -1,0 +1,21 @@
+{
+    "name": "bizincloud/transliterator",
+    "description": "Magento 2 - Translit Romanian fixer and Helper",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "license": "proprietary",
+    "authors": [{
+        "name": "BizInCloud",
+        "email": "dev@bizincloud.ro",
+        "homepage": "https://bizincloud.ro",
+        "role": "Technical Support"
+    }],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "BizInCloud\\Translierator\\": ""
+        }
+    }
+}
